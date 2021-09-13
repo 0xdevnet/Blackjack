@@ -1,0 +1,11 @@
+# Hidden files
+.*
+!/.gitignore
+!/.gitattributes
+
+# Packages
+node_modules/*
+client/node_modules/*
+
+# Build files
+client/src/contracts/*
